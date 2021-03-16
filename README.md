@@ -5,15 +5,15 @@ Sou programador Python de sistemas Web com Flask e Bootstrap e automações web 
 ```python
 Bruno = {
     'nome': 'Bruno Roberto Pianca',
-    'linguagens': ['HTML5', 'CSS3', Javascript, 'Python'],
+    'linguagens': [HTML5, CSS3, Javascript, Python],
     'Tecnologias': {
-        'front-end': 'Bootstrap',
-        'Back-end': 'Flask',
-        'Automation': ['Selenium', 'Beautiful Soup']
+        'front-end': Bootstrap,
+        'Back-end': Flask,
+        'Automation': [Selenium, Beautiful Soup]
     },
     'Comunidades': {
-        'Pythonizando': 'Comunidade que visa ajudar e unir desenvolvedores no Brasil e no mundo em busca de networking e compartilhar conhecimento.',
-        'Pyxel': 'Empresa de desenvolvimento de softwares web, automações e BOTs.'
+        Pythonizando: 'Comunidade que visa ajudar e unir desenvolvedores no Brasil e no mundo em busca de networking e compartilhar conhecimento.',
+        Pyxel: 'Empresa de desenvolvimento de softwares web, automações e BOTs.'
     }
 }
 ```
