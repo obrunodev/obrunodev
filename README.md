@@ -5,7 +5,7 @@ Sou programador Python de sistemas Web com Flask e Bootstrap e automações web 
 ```python
 Bruno = {
     'nome': 'Bruno Roberto Pianca',
-    'linguagens': ['HTML5', 'CSS3', 'Javascript', 'Python'],
+    'linguagens': ['HTML5', 'CSS3', Javascript, 'Python'],
     'Tecnologias': {
         'front-end': 'Bootstrap',
         'Back-end': 'Flask',
