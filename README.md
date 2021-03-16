@@ -1,6 +1,21 @@
-### Fala galera, meu nome é Bruno.
+### Fala <devs/>, meu nome é Bruno,
 
-Sou programador de diversas coisas, mas minha tecnologia favorita é Python para automação de processos.
+Sou programador Python de sistemas Web com Flask e Bootstrap e automações web com Selenium.
+
+```python
+Bruno = {
+    'nome': 'Bruno Roberto Pianca',
+    'linguagens': ['HTML5', 'CSS3', 'Javascript', 'Python'],
+    'Tecnologias': {
+        'front-end': 'Bootstrap',
+        'Back-end': 'Flask',
+        'Automation': ['Selenium', 'Beautiful Soup']
+    },
+    'Comunidades': {
+        'Pythonizando': 'Comunidade que visa ajudar e unir desenvolvedores no Brasil e no mundo em busca de networking e compartilhar conhecimento.',
+        'Pyxel': 'Empresa de desenvolvimento de softwares web, automações e BOTs.'
+    }
+```
 
 - 🔭 Atualmente estou trabalhando em projetos de automação de tarefas em mídias sociais, Instagram, Telegram, WhatsApp entre outros.
 
