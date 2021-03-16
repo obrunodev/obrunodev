@@ -15,6 +15,7 @@ Bruno = {
         'Pythonizando': 'Comunidade que visa ajudar e unir desenvolvedores no Brasil e no mundo em busca de networking e compartilhar conhecimento.',
         'Pyxel': 'Empresa de desenvolvimento de softwares web, automações e BOTs.'
     }
+}
 ```
 
 - 🔭 Atualmente estou trabalhando em projetos de automação de tarefas em mídias sociais, Instagram, Telegram, WhatsApp entre outros.
