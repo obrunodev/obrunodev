@@ -1,7 +1,11 @@
-# Fala <devs/>, meu nome é Bruno,
+## Olá, meu nome é Bruno Pianca
+
+[![GitHub Bruno](https://img.shields.io/github/followers/obrunodev?label=follow&style=social)](https://github.com/obrunodev)
 
 Gestor da comunidade [Pythonizando](https://www.instagram.com/pythonizando/)
 CEO na [Pyxel.dev](https://www.instagram.com/pyxel.dev/)
+
+## Mais sobre mim:
 
 ```python
 Bruno = {
