@@ -6,7 +6,7 @@
 
 Gestor da comunidade Pythonizando
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pythonizando)
+[![Pythonizando](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pythonizando)
 
 CEO na [Pyxel.dev](https://www.instagram.com/pyxel.dev/)
 
