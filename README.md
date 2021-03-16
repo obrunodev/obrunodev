@@ -1,7 +1,7 @@
 ## Olá, meu nome é Bruno Pianca
 
-[![Twitter: obrunodev](https://img.shields.io/twitter/follow/obrunodev?style=social)](https://twitter.com/obrunodev)
 [![Linkedin: brunorpdev](https://img.shields.io/badge/-brunorpdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorpdev/)](https://www.linkedin.com/in/brunorpdev/)
+[![Twitter: obrunodev](https://img.shields.io/twitter/follow/obrunodev?style=social)](https://twitter.com/obrunodev)
 [![GitHub Bruno](https://img.shields.io/github/followers/obrunodev?label=follow&style=social)](https://github.com/obrunodev)
 
 Gestor da comunidade [Pythonizando](https://instagram.com/pythonizando)
@@ -17,7 +17,7 @@ Bruno = {
     'Tecnologias': {
         'front-end': Bootstrap,
         'back-end': Flask,
-        'database': MySQL
+        'database': MySQL,
         'automation': [Selenium, Beautiful Soup]
     },
     'Comunidades': {
