@@ -1,4 +1,12 @@
-### Hi there 👋
+### Fala galera, meu nome é Bruno.
+
+Sou programador de diversas coisas, mas minha tecnologia favorita é Python para automação de processos.
+
+- 🔭 Atualmente estou trabalhando em projetos de automação de tarefas em mídias sociais, Instagram, Telegram, WhatsApp entre outros.
+
+- 📫 Como entrar em contato comigo: [WhatsApp](whats.link/obrunozap)
+
+Pouco a pouco eu atualizo mais essa bagaça...
 
 <!--
 **obrunodev/obrunodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
