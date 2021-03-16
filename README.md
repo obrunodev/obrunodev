@@ -1,6 +1,6 @@
 ## Olá, meu nome é Bruno Pianca
 
-[![Instagram: pythonizando](https://img.shields.io/instagram/follow/pythonizando?style=social)](https://instagram.com/pythonizando)
+[![Instagram: pythonizando](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pythonizando)
 [![Twitter: obrunodev](https://img.shields.io/twitter/follow/obrunodev?style=social)](https://twitter.com/obrunodev)
 [![Linkedin: brunorpdev](https://img.shields.io/badge/-brunorpdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorpdev/)](https://www.linkedin.com/in/brunorpdev/)
 [![GitHub Bruno](https://img.shields.io/github/followers/obrunodev?label=follow&style=social)](https://github.com/obrunodev)
