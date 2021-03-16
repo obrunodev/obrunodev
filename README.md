@@ -12,12 +12,13 @@ CEO na [Pyxel.dev](https://www.instagram.com/pyxel.dev/)
 
 ```python
 Bruno = {
-    'nome': 'Bruno Roberto Pianca',
-    'linguagens': [HTML5, CSS3, Javascript, Python],
+    'Nome': 'Bruno Roberto Pianca',
+    'Linguagens': [HTML5, CSS3, Javascript, Python],
     'Tecnologias': {
         'front-end': Bootstrap,
-        'Back-end': Flask,
-        'Automation': [Selenium, Beautiful Soup]
+        'back-end': Flask,
+        'database': MySQL
+        'automation': [Selenium, Beautiful Soup]
     },
     'Comunidades': {
         Pythonizando: 'Comunidade que visa ajudar e unir desenvolvedores no Brasil e no mundo em busca de networking e compartilhar conhecimento.',
