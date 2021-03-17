@@ -30,7 +30,7 @@ Bruno = {
 - 🔭 Atualmente estou trabalhando em projetos de automação de tarefas em mídias sociais, Instagram, Telegram, WhatsApp entre outros.
 
 - 📫 Como entrar em contato comigo: 
-[WhatsApp](whats.link/obrunozap) <- Clica aqui
+[WhatsApp](https://whats.link/obrunozap) <- Clica aqui
 
 ## Spec:
 ### Desktop
