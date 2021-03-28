@@ -16,18 +16,18 @@ Bruno = {
     'Linguagens': [HTML5, CSS3, Javascript, Python],
     'Tecnologias': {
         'front-end': Bootstrap,
-        'back-end': Flask,
+        'back-end': [Flask, NodeJS],
         'database': MySQL,
-        'automation': [Selenium, Beautiful Soup]
+        'automation': [Selenium, Beautiful Soup, Scrapy]
     },
     'Comunidades': {
         Pythonizando: 'Comunidade que visa ajudar e unir desenvolvedores no Brasil e no mundo em busca de networking e compartilhar conhecimento.',
-        Pyxel: 'Empresa de desenvolvimento de softwares web, automações e BOTs.'
+        PyxelBots: 'Empresa de desenvolvimento de softwares web, automações e BOTs.'
     }
 }
 ```
 
-- 🔭 Atualmente estou trabalhando em projetos de automação de tarefas em mídias sociais, Instagram, Telegram, WhatsApp entre outros.
+- 🔭 Atualmente trabalho em automações de tarefas em mídias sociais além de estar trabalhando em projetos paralelos relacionadas a PyxelBots, para em breve estar levantando a empresa.
 
 - 📫 Como entrar em contato comigo: 
 [WhatsApp](https://whats.link/obrunozap) <- Clica aqui
