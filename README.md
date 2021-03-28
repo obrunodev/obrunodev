@@ -6,7 +6,7 @@
 
 Gestor da comunidade [Pythonizando](https://instagram.com/pythonizando)
 
-CEO na [Pyxel.dev](https://www.instagram.com/pyxel.dev/)
+CEO na [PyxelBots](https://www.instagram.com/pyxelbots/)
 
 ## Mais sobre mim:
 
