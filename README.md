@@ -4,7 +4,7 @@
 [![Twitter: obrunodev](https://img.shields.io/twitter/follow/obrunodev?style=social)](https://twitter.com/obrunodev)
 [![GitHub Bruno](https://img.shields.io/github/followers/obrunodev?label=follow&style=social)](https://github.com/obrunodev)
 
-Gestor da comunidade [Pythonizando](https://instagram.com/pythonizando)
+Freelancer no [Pythonizando](https://instagram.com/pythonizando)
 
 CEO na [PyxelBots](https://github.com/pyxelbots)
 
