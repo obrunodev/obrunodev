@@ -6,7 +6,7 @@
 
 Freelancer no [Pythonizando](https://instagram.com/pythonizando)
 
-CEO na [PyxelBots](https://github.com/pyxelweb)
+CEO na [Pyxel](https://github.com/pyxelweb)
 
 ## Mais sobre mim:
 
