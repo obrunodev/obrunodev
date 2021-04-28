@@ -1,14 +1,23 @@
 ## Olá, meu nome é Bruno Pianca
 
-[![Linkedin: brunorpdev](https://img.shields.io/badge/-brunorpdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorpdev/)](https://www.linkedin.com/in/brunorpdev/)
-[![Twitter: obrunodev](https://img.shields.io/twitter/follow/obrunodev?style=social)](https://twitter.com/obrunodev)
-[![GitHub Bruno](https://img.shields.io/github/followers/obrunodev?label=follow&style=social)](https://github.com/obrunodev)
-
-Freelancer no [Pythonizando](https://instagram.com/pythonizando)
-
-CEO na [Pyxel](https://github.com/pyxelweb)
+<div>
+  <a href="https://www.instagram.com/pythonizando.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto: bruno.pythonizando@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="https://twitter.com/obrunodev" target="_blank"><img src="https://img.shields.io/twitter/follow/obrunodev?style=social" alt="Twitter" /></a>
+  <a href="https://codepen.io/obrunorp" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
+</div>
 
 ## Mais sobre mim:
+
+<ul>
+  <li>🤖 Desenvolvedor de robôs em Python</li>
+  <li>💻 CEO da Pyxel Bots e Pyxel Web</li>
+  <li>🎓 Formado técnico em informática</li>
+  <li>📱 Compartilhando conteúdos de desenvolvimento e da vida de dev no <a href="https://www.instagram.com/pythonizando.js">Instagram</a></li>
+</ul>
+
+##
 
 ```python
 Bruno = {
@@ -27,17 +36,10 @@ Bruno = {
 }
 ```
 
-- 🔭 Atualmente trabalho em automações de tarefas em mídias sociais além de estar trabalhando em projetos paralelos relacionadas a PyxelBots, para em breve estar levantando a empresa.
+<div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunodev&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 - 📫 Como entrar em contato comigo: 
 [WhatsApp](https://whats.link/obrunozap) <- Clica aqui
-
-## Spec:
-### Desktop
-![image](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![image](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-### Notebook
-![image](https://img.shields.io/badge/Windows-HP_246_G6-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-Pouco a pouco eu atualizo mais essa bagaça...
