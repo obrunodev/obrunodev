@@ -1,4 +1,4 @@
-## Olá, me chamo Bruno, e aqui tem um pouco sobre minha experiência como DEV!!!
+## Olá, me chamo Bruno, vou me apresentar um pouco melhor nesse repo...
 
 <div>
   <a href="https://www.instagram.com/pythonizando.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
