@@ -18,7 +18,7 @@
   <li>📱 Me conheça melhor no <a href="https://www.instagram.com/pythonizando.js">Instagram</a></li>
 </ul>
 
-##
+---
 
 ```json
 Bruno = {
@@ -39,7 +39,7 @@ Bruno = {
 
 <div>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunodev&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunodev&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 - 📫 Como entrar em contato comigo: 
