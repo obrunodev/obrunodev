@@ -20,7 +20,7 @@
 
 ---
 
-```json
+```python
 Bruno = {
     'Nome': 'Bruno Roberto Pianca',
     'Linguagens': [HTML5, CSS3, Javascript, Python],
