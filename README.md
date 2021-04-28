@@ -12,14 +12,15 @@
 
 <ul>
   <li>🤖 Desenvolvedor de robôs em Python</li>
-  <li>💻 CEO da Pyxel Bots e Pyxel Web</li>
+  <li>💻 Programador web NodeJS</li>
+  <li>💼 CEO da Pyxel Bots e Pyxel Web</li>
   <li>🎓 Formado técnico em informática</li>
-  <li>📱 Compartilhando conteúdos de desenvolvimento e da vida de dev no <a href="https://www.instagram.com/pythonizando.js">Instagram</a></li>
+  <li>📱 Me conheça melhor no <a href="https://www.instagram.com/pythonizando.js">Instagram</a></li>
 </ul>
 
 ##
 
-```python
+```json
 Bruno = {
     'Nome': 'Bruno Roberto Pianca',
     'Linguagens': [HTML5, CSS3, Javascript, Python],
