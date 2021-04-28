@@ -31,8 +31,8 @@ Bruno = {
         'automation': [Selenium, Beautiful Soup, Scrapy]
     },
     'Comunidades': {
-        Pythonizando: 'Comunidade que visa ajudar e unir desenvolvedores no Brasil e no mundo em busca de networking e compartilhar conhecimento.',
-        PyxelBots: 'Empresa de desenvolvimento de softwares web, automações e BOTs.'
+        Pythonizando.js: 'Comunidade de programadores pythonistas ou não, são todos bem-vindos.',
+        Pyxel: 'Empresa de desenvolvimento de softwares web e robôs para automação.'
     }
 }
 ```
