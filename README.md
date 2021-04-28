@@ -1,4 +1,4 @@
-## Olá, meu nome é Bruno Pianca
+## Olá, me chamo Bruno, e aqui tem um pouco sobre minha experiência como DEV!!!
 
 <div>
   <a href="https://www.instagram.com/pythonizando.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
