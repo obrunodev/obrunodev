@@ -4,8 +4,8 @@
   <a href="https://www.instagram.com/pythonizando.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto: bruno.pythonizando@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
-  <a href="https://twitter.com/obrunodev" target="_blank"><img src="https://img.shields.io/twitter/follow/obrunodev?style=social" alt="Twitter" /></a>
   <a href="https://codepen.io/obrunorp" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
+  <a href="https://twitter.com/obrunodev" target="_blank"><img src="https://img.shields.io/twitter/follow/obrunodev?style=social" alt="Twitter" /></a>
 </div>
 
 ## Mais sobre mim:
