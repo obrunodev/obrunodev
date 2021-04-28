@@ -22,7 +22,7 @@
 
 ```python
 Bruno = {
-    'Nome': 'Bruno Roberto Pianca',
+    'Nome': "Bruno Roberto Pianca",
     'Linguagens': [HTML5, CSS3, Javascript, Python],
     'Tecnologias': {
         'front-end': Bootstrap,
@@ -31,8 +31,8 @@ Bruno = {
         'automation': [Selenium, Beautiful Soup, Scrapy]
     },
     'Comunidades': {
-        Pythonizando.js: 'Comunidade de programadores pythonistas ou não, são todos bem-vindos.',
-        Pyxel: 'Empresa de desenvolvimento de softwares web e robôs para automação.'
+        'Pythonizando.js': "Comunidade de programadores pythonistas ou não, são todos bem-vindos.",
+        Pyxel: "Empresa de desenvolvimento de softwares web e robôs para automação."
     }
 }
 ```
