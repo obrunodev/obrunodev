@@ -45,25 +45,6 @@
   
 ---
 
-```python
-Bruno = {
-    'Nome': "Bruno Roberto Pianca",
-    'Linguagens': [HTML5, CSS3, Javascript, Python],
-    'Tecnologias': {
-        'front-end': Bootstrap,
-        'back-end': [Flask, NodeJS],
-        'database': MySQL,
-        'automation': [Selenium, Beautiful Soup, Requests]
-    },
-    'Comunidades': {
-        Pythonizando.js: "Comunidade de programadores no instagram, e quem sabe em live coding.",
-        Pyxel: "Empresa de desenvolvimento de softwares web e robôs para automação."
-    }
-}
-```
-
----
-
 ## ⭐ Informações sobre minha conta GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obrunodev&show_icons=true&theme=dark)
