@@ -28,10 +28,10 @@ Bruno = {
         'front-end': Bootstrap,
         'back-end': [Flask, NodeJS],
         'database': MySQL,
-        'automation': [Selenium, Beautiful Soup, Scrapy]
+        'automation': [Selenium, Beautiful Soup, Requests]
     },
     'Comunidades': {
-        'Pythonizando.js': "Comunidade de programadores pythonistas ou não, são todos bem-vindos.",
+        Pythonizando.js: "Comunidade de programadores no instagram, e quem sabe em live coding.",
         Pyxel: "Empresa de desenvolvimento de softwares web e robôs para automação."
     }
 }
@@ -43,6 +43,8 @@ Bruno = {
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunodev&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=obrunodev&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 ##
 
