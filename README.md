@@ -12,7 +12,7 @@
 
 <ul>
   <li>🤖 Desenvolvedor de robôs em Python</li>
-  <li>💻 Programador web NodeJS</li>
+  <li>💻 Programador back-end NodeJS</li>
   <li>💼 CEO da Pyxel Systems - Automações e web</li>
   <li>🎓 Formado técnico em informática</li>
   <li>📱 Me conheça melhor no <a href="https://www.instagram.com/pythonizando.js">Instagram</a></li>
