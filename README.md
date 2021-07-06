@@ -10,12 +10,15 @@
 
 ## Mais sobre mim:
 
+### O que eu faço...
 <ul>
   <li>🤖 Desenvolvedor de robôs em Python</li>
   <li>💻 Programador back-end NodeJS</li>
   <li>💼 CEO da Pyxel Solutions & Pyxel Bots</li>
   <li>🎓 Formado técnico em informática</li>
 </ul>
+
+### Meu trabalho...
 
 - 🔭 Criei sistemas de atendimento e gestão de clientes para empresas de contabilidade.
 - 👨‍💻 Atualmente trabalhando no desenvolvimento de sistema web para controle de vendas e coletor de dados web.
