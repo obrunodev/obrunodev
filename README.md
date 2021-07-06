@@ -1,4 +1,4 @@
-## Olá, me chamo Bruno, vou me apresentar um pouco melhor nesse repo...
+## Oi, meu nome é Bruno!
 
 <div>
   <a href="https://www.instagram.com/pythonizando.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -13,10 +13,13 @@
 <ul>
   <li>🤖 Desenvolvedor de robôs em Python</li>
   <li>💻 Programador back-end NodeJS</li>
-  <li>💼 CEO da Pyxel Systems - Automações e web</li>
+  <li>💼 CEO da Pyxel Solutions & Pyxel Bots</li>
   <li>🎓 Formado técnico em informática</li>
-  <li>📱 Me conheça melhor no <a href="https://www.instagram.com/pythonizando.js">Instagram</a></li>
 </ul>
+
+🔭 Criei sistemas de atendimento e gestão de clientes para empresas de contabilidade.
+👨‍💻 Atualmente trabalhando no desenvolvimento de sistema web para controle de vendas e coletor de dados web.
+📫 Meu contato: [WhatsApp](https://whats.link/obrunozap)
 
 ---
 
@@ -52,8 +55,3 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunodev&layout=compact&langs_count=8&theme=dark"/>
 </div>
-
-##
-
-- 📫 Como entrar em contato comigo: 
-[WhatsApp](https://whats.link/obrunozap) <- Clica aqui
