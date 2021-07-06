@@ -17,9 +17,9 @@
   <li>🎓 Formado técnico em informática</li>
 </ul>
 
-🔭 Criei sistemas de atendimento e gestão de clientes para empresas de contabilidade.
-👨‍💻 Atualmente trabalhando no desenvolvimento de sistema web para controle de vendas e coletor de dados web.
-📫 Meu contato: [WhatsApp](https://whats.link/obrunozap)
+- 🔭 Criei sistemas de atendimento e gestão de clientes para empresas de contabilidade.
+- 👨‍💻 Atualmente trabalhando no desenvolvimento de sistema web para controle de vendas e coletor de dados web.
+- 📫 Meu contato: [WhatsApp](https://whats.link/obrunozap)
 
 ---
 
