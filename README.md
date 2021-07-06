@@ -21,7 +21,7 @@
 ### Meu trabalho...
 
 - 🔭 Criei sistemas de atendimento e gestão de clientes para empresas de contabilidade.
-- 👨‍💻 Atualmente trabalhando no desenvolvimento de sistema web para controle de vendas e coletor de dados web.
+- 👨‍💻 Atualmente trabalhando no desenvolvimento de sistema web para controle de vendas e coletor de dados web. [![nike](https://emoji.gg/assets/emoji/nike.png)](https://emoji.gg/emoji/nike)
 - 📫 Meu contato: [WhatsApp](https://whats.link/obrunozap)
 
 ---
