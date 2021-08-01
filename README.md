@@ -14,7 +14,7 @@
 <ul>
   <li>🤖 Desenvolvedor de robôs em Python</li>
   <li>💻 Programador back-end NodeJS</li>
-  <li>💼 CEO da Pyxel Solutions & Pyxel Bots</li>
+  <li>💼 CEO da Pyxel Soluções</li>
   <li>🎓 Formado técnico em informática</li>
 </ul>
 
