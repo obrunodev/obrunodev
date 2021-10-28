@@ -12,8 +12,8 @@
 
 ### O que eu faço...
 <ul>
-  <li>🤖 Desenvolvedor de robôs em Python</li>
-  <li>💻 Programador back-end NodeJS</li>
+  <li>🤖 Desenvolvedor de Web Scraping em Python</li>
+  <li>💻 Programador back-end Django</li>
   <li>💼 CEO da Pyxel Soluções</li>
   <li>🎓 Formado técnico em informática</li>
 </ul>
