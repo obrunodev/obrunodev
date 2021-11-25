@@ -31,6 +31,7 @@
 ### **Linguagens e Dados**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Django](https://img.shields.io/badge/-Django-0c4b33?style=flat&logo=django)
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=node.js)
