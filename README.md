@@ -14,7 +14,7 @@
 <ul>
   <li>🤖 Desenvolvedor de Web Scraping em Python</li>
   <li>💻 Programador back-end Django</li>
-  <li>💼 CEO da Pyxel Soluções</li>
+  <li>💼 Freelancer</li>
   <li>🎓 Formado técnico em informática</li>
 </ul>
 
