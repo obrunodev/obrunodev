@@ -13,7 +13,7 @@
 ### O que eu faço...
 <ul>
   <li>🤖 Desenvolvedor de Web Scraping em Python</li>
-  <li>💻 Programador back-end Django</li>
+  <li>💻 Arquiteto MVC com NodeJS e Nunjucks</li>
   <li>💼 Freelancer</li>
   <li>🎓 Formado técnico em informática</li>
 </ul>
