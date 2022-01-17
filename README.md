@@ -12,7 +12,7 @@
 
 ### O que eu faço...
 <ul>
-  <li>🤖 Desenvolvedor de Web Scraping em Python</li>
+  <li>🤖 Desenvolvedor RPA com Python</li>
   <li>💻 Arquiteto MVC com NodeJS e Nunjucks</li>
   <li>💼 Freelancer</li>
   <li>🎓 Formado técnico em informática</li>
@@ -20,8 +20,8 @@
 
 ### Meu trabalho...
 
-- 🔭 Criei sistemas de atendimento e gestão de clientes para empresas de contabilidade.
-- 👨‍💻 Atualmente trabalhando no desenvolvimento de sistema web para controle de vendas e coletor de dados web.
+- 🔭 Trabalhei no desenvolvimento de CRUDs para escritório de contabilidade e sistemas para restaurantes.
+- 👨‍💻 Sempre buscando melhorar a arquitetura e aumentando a qualidade dos meus softwares.
 - 📫 Meu contato: [WhatsApp](https://whats.link/obrunozap)
 
 ---
