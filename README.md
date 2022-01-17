@@ -20,8 +20,8 @@
 
 ### Meu trabalho...
 
-- 🔭 Trabalhei no desenvolvimento de CRUDs para escritório de contabilidade e sistemas para restaurantes.
-- 👨‍💻 Sempre buscando melhorar a arquitetura e aumentando a qualidade dos meus softwares.
+- 🔭 Trabalhei no desenvolvimento de dezenas de CRUDs e sistemas para restaurantes.
+- 👨‍💻 Sempre buscando melhorar a arquitetura e aumentar a qualidade dos meus softwares.
 - 📫 Meu contato: [WhatsApp](https://whats.link/obrunozap)
 
 ---
