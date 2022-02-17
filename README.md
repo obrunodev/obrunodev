@@ -13,7 +13,7 @@
 ### O que eu faço...
 <ul>
   <li>🤖 Desenvolvedor RPA com Python</li>
-  <li>💻 Programador Bac-end com NodeJS e Python</li>
+  <li>💻 Programador Back-end com NodeJS e Python</li>
   <li>💼 Freelancer</li>
   <li>🎓 Formado técnico em informática</li>
 </ul>
