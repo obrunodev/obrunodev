@@ -13,7 +13,7 @@
 ### O que eu faço...
 <ul>
   <li>🤖 Desenvolvedor RPA com Python</li>
-  <li>💻 Programador Back-end com NodeJS e Python</li>
+  <li>💻 Programador Back-end com NodeJS e Python (Migrando 100% para Django)</li>
   <li>💼 Freelancer</li>
   <li>🎓 Formado técnico em informática</li>
 </ul>
@@ -22,7 +22,7 @@
 
 - 🔭 Trabalhei no desenvolvimento de dezenas de CRUDs e sistemas para restaurantes.
 - 👨‍💻 Sempre buscando melhorar a arquitetura e aumentar a qualidade dos meus softwares.
-- 📫 Meu contato: [WhatsApp](https://whats.link/obrunozap)
+- 📫 Meu contato: [WhatsApp](https://wa.me/5511937183232)
 
 ---
 
