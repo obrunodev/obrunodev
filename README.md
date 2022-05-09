@@ -37,7 +37,6 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=poatgres)
   
 
 ### **Ferramentas de Desenvolvimento**
@@ -51,7 +50,7 @@
   
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Some information about my GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obrunodev&show_icons=true&theme=dark)
 
