@@ -9,7 +9,7 @@
 ## About me:
 
 <ul>
-  <li>💻 Django back-end developer with stack Django-vue and MTV arquitecture</li>
+  <li>💻 Django back-end developer</li>
   <li>🤖 I'm a RPA developer at InSPED</li>
   <li>💼 Freelancer in free time</li>
   <li>🎓 Trained in computer science</li>
