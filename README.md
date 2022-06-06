@@ -10,7 +10,7 @@
 
 <ul>
   <li>💻 Django back-end developer</li>
-  <li>🤖 I'm a RPA developer at InSPED</li>
+  <li>🧠 self-taught Data scientist</li>
   <li>💼 Freelancer in free time</li>
   <li>🎓 Trained in computer science</li>
 </ul>
