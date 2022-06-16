@@ -9,10 +9,9 @@
 ## About me:
 
 <ul>
-  <li>💻 Django back-end developer</li>
-  <li>🧠 self-taught Data scientist</li>
-  <li>💼 Freelancer in free time</li>
+  <li>💻 I'm a freelance Django developer</li>
   <li>🎓 Trained in computer science</li>
+  <li>🧠 Majoring in data science</li>
 </ul>
 
 ### My work:
