@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 </div>
 
----
-
 ## :rocket: &nbsp;My Skills
 
 ### **Languages and techs**
@@ -34,8 +32,6 @@
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  
----
 
 ## About me:
 
