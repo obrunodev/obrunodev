@@ -6,21 +6,6 @@
   <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 </div>
 
-## About me:
-
-<ul>
-  <li>💻 I'm a freelance Django developer</li>
-  <li>🎓 Trained in computer science</li>
-  <li>🧠 Majoring in data science</li>
-  <li>👨‍💻 I'm working with Django projects and leaning and improving javascript skills to learn ReactJS for front-end.</li>
-</ul>
-
-### My work:
-
-- 🔭 I worked on the development of management systems for small and medium-sized companies.
-- 👨‍💻 Always looking to improve the architecture and increase the quality of my software.
-- 📫 Contact: [WhatsApp](https://wa.me/5511937183232)
-
 ---
 
 ## :rocket: &nbsp;My Skills
@@ -49,3 +34,20 @@
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  
+---
+
+## About me:
+
+<ul>
+  <li>💻 I'm a freelance Django developer</li>
+  <li>🎓 Trained in computer science</li>
+  <li>🧠 Majoring in data science</li>
+  <li>👨‍💻 I'm working with Django projects and leaning and improving javascript skills to learn ReactJS for front-end.</li>
+</ul>
+
+### My work:
+
+- 🔭 I worked on the development of management systems for small and medium-sized companies.
+- 👨‍💻 Always looking to improve the architecture and increase the quality of my software.
+- 📫 Contact: [WhatsApp](https://wa.me/5511937183232)
