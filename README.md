@@ -36,10 +36,9 @@
 ## About me:
 
 <ul>
-  <li>💻 I'm a freelance Django developer</li>
+  <li>💻 I'm a Full Stack python developer at Alstra Technologies</li>
   <li>🎓 Trained in computer science</li>
-  <li>🧠 Majoring in data science</li>
-  <li>👨‍💻 I'm working with Django projects and leaning and improving javascript skills to learn ReactJS for front-end.</li>
+  <li>🧠 Majoring in Computer science</li>
 </ul>
 
 ### My work:
