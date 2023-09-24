@@ -2,7 +2,7 @@
 
 ### Social media
 <div>
-  <a href="https://www.instagram.com/pythonizando.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/obruno.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 </div>
 
@@ -12,6 +12,7 @@
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-0c4b33?style=flat&logo=django)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-0c4b33?style=flat&logo=fastapi)
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=node.js)
