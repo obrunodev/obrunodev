@@ -34,7 +34,7 @@
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
-## About me:
+## About me
 
 <ul>
   <li>💻 I'm a Full Stack python developer at Alstra Technologies</li>
