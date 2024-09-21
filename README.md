@@ -2,7 +2,7 @@
 
 ### Social media
 <div>
-  <a href="https://www.instagram.com/obruno.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/obruno.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 </div>
 
@@ -37,9 +37,8 @@
 ## About me
 
 <ul>
-  <li>💻 I'm a Full Stack python developer at Alstra Technologies</li>
-  <li>🎓 Trained in computer science</li>
-  <li>🧠 Majoring in Computer science</li>
+  <li>💻 I'm a Full Stack python developer</li>
+  <li>🎓 Trained in IT</li>
 </ul>
 
 ### My work:
