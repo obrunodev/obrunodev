@@ -50,7 +50,7 @@ Priorizo a escrita de código limpo, testável e de fácil manutenção, aplican
 
 ## 🛠️ Projetos Principais
 
-- **🩺 Sistema de Saúde B2B com IA (Multi-Tenant)**
+- **🩺 [Sistema de Saúde B2B com IA (Multi-Tenant)](https://app.epigene.com.br/)**
   - Plataforma para assistência de saúde integrada com WhatsApp e IA para otimizar o atendimento.
   - `Django` `FastAPI` `NextJS` `PostgreSQL` `HTMX` `ManyChat`
 
@@ -58,7 +58,7 @@ Priorizo a escrita de código limpo, testável e de fácil manutenção, aplican
   - Solução completa para controle de vendas e ordens de serviço para assistências técnicas.
   - `Django` `MySQL` `NodeJS` `Express` `jQuery` `Bulma`
 
-- **💸 Controle Financeiro para Micro-Empresas**
+- **💸 [Controle Financeiro para Micro-Empresas](https://github.com/obrunodev/onda-nerd-tech)**
   - Aplicação focada em simplicidade para ajudar pequenos negócios na gestão financeira.
   - `Django` `HTMX` `Bootstrap 5` `SQLite`
 
@@ -66,7 +66,7 @@ Priorizo a escrita de código limpo, testável e de fácil manutenção, aplican
   - API centralizadora para conectar a plataforma com múltiplos serviços como Docusign e D4Sign.
   - `Django` `Django Rest Framework`
 
-- **🚗 E-commerce de Peças Automotivas**
+- **🚗 [E-commerce de Peças Automotivas](https://app.esteiodistribuidora.com.br/)**
   - Loja virtual para uma distribuidora de peças, com gestão de estoque e vendas.
   - `Django` `PostgreSQL` `Bootstrap 4` `jQuery`
 
@@ -75,4 +75,4 @@ Priorizo a escrita de código limpo, testável e de fácil manutenção, aplican
 ## 👥 Comunidades e Iniciativas
 
 - **Fundador da Comunidade Pythonizando/Code'n Coffee**
-  - Criei e moderei uma comunidade no WhatsApp para ensino e colaboração em programação, que esteve ativa até 2023, ajudando dezenas de iniciantes.
+  - Criei e moderei uma comunidade no WhatsApp, Telegram e Instagram para ensino e colaboração em programação, que esteve ativa até 2023, acumulando quase 300 pessoas.
