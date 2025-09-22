@@ -37,7 +37,7 @@ Sou Casado, Pai e Pythonista.</br></br>
 ## Mais sobre minha carreira
 
 - **Experiências profissionais:**
-  - **QFlash:** Desenvolvedor Backend com **FastAPI** e **MongoDB**.
+  - **QFlash:** Desenvolvedor Backend Pleno com **FastAPI** e **MongoDB**.
   - **Epigene:** Desenvolvedor Python com **Django**, **Next.js** e **FastAPI**, focado em soluções com **IA**.
   - **Alstra:** Desenvolvedor Full-Stack com **Django**, **Bootstrap 4/5**, **Jquery**.
 
