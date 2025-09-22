@@ -26,31 +26,15 @@ Sou Casado, Pai e Pythonista.</br></br>
 </br>
 </br>
 
-- **Tenho experiência em** desenvolvimento backend com python e algumas passagens por React e NextJS.
+- **Tenho experiência em** desenvolvimento backend com **Python** e integração de **IAs generativas** (Gemini e ChatGPT).
 - **As tecnologias que domino são** Python, FastAPI, Django e Django Rest Framework.
-- **Tenho vivência com** CI/CD, Bancos de dados relacionais e não relacionais e Docker.
-- **Estou aprimorando minhas habilidades em** escrita de testes, padrões de projetos e infraestrutura (GCP/Linux).
+- **Tenho vivência com** CI/CD, PostgreSQL, MongoDB e Docker.
+- **Estou aprimorando minhas habilidades em** escrita de testes, padrões de projetos e GCP/Linux.
 
 </br>
 </br>
 
-<div align="center">
-  <strong>Minhas redes sociais.</strong> Entre em contato!
-  </br>
-  </br>
-
-  <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/obruno.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
----
-
-### Minhas experiências
-
+## Mais sobre minha carreira
 
 - **Experiências profissionais:**
   - **QFlash:** Desenvolvedor Backend com **FastAPI** e **MongoDB**.
@@ -62,3 +46,16 @@ Sou Casado, Pai e Pythonista.</br></br>
   - **E-commerce de Peças Automotivas:** Loja virtual com gestão de estoque e vendas.
   - **Controle Financeiro:** Aplicação para gestão financeira de pequenos negócios.
   - **Comunidade Code'n Coffee:** Comunidade no Whatsapp, Telegram e Discord que somavam mais de 500 integrantes.
+
+<div align="center">
+  <strong>Minhas redes sociais:</strong>
+  </br>
+  </br>
+
+  <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/obruno.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
