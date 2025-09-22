@@ -1,21 +1,16 @@
-## 👋 Sobre Mim
+<div align="center"> 
+  
+### Olá! Me chamo Bruno! 👋
 
-Sou um desenvolvedor Backend com mais de 5 anos de experiência, apaixonado por construir APIs robustas e aplicações monolíticas com **Python, FastAPI e Django**.
+<blockquote>
+  <p><i>
+Sou um desenvolvedor que começou seus estudos em 2017, mas só ingressou na carreira em 2020.</br>
+Gosto de programar e de entender como as coisas funcionam, além de me orgulhar de um código bem escrito.</br>
+Sou Casado, Pai e Pythonista.</br></br>
+  </i></p>
+</blockquote>
 
-Priorizo a escrita de código limpo, testável e de fácil manutenção, aplicando as melhores práticas de desenvolvimento para entregar soluções de alto valor. Tenho um perfil colaborativo e acredito que o compartilhamento de conhecimento é a chave para o crescimento de toda a equipe.
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/obruno.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-## ⚙️ Tech Stack & Ferramentas
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -26,49 +21,45 @@ Priorizo a escrita de código limpo, testável e de fácil manutenção, aplican
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-<br>
+</div>
 
-## 🚀 Experiência Profissional
+</br>
+</br>
 
-**QFlash** | Desenvolvedor Backend Pleno | (8 meses)
-- Atuei na manutenção e implementação de novas features em uma fintech de antecipação de recebíveis, utilizando Python e FastAPI.
+- **Tenho experiência em** desenvolvimento backend com python e algumas passagens por React e NextJS.
+- **As tecnologias que domino são** Python, FastAPI, Django e Django Rest Framework.
+- **Tenho vivência com** CI/CD, Bancos de dados relacionais e não relacionais e Docker.
+- **Estou aprimorando minhas habilidades em** escrita de testes, padrões de projetos e infraestrutura.
 
-**Epigene** | Desenvolvedor FullStack | (1 ano e 5 meses)
-- Desenvolvi uma aplicação web monolítica com Django para clínicas médicas, focada em melhorar a saúde e o bem-estar dos pacientes através de IA.
+</br>
+</br>
 
-**Alstra** | Desenvolvedor Python | (1 ano e 8 meses)
-- Responsável pelo desenvolvimento e manutenção de dois produtos core: uma plataforma de gestão de recrutamento e um sistema de gestão de documentos.
-- Stack principal: Django, Bootstrap, Celery, PostgreSQL.
+<div align="center">
+  <strong>Minhas redes sociais.</strong> Entre em contato!
+  </br>
+  </br>
 
-**Insped** | Desenvolvedor RPA | (4 meses)
-- Criei automações no portal gov.br utilizando Python e Robot Framework.
+  <a href="https://www.linkedin.com/in/brunorpdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/obruno.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-**Freelancer** | Desenvolvedor Full-Stack | (2+ anos)
-- Criei projetos sob medida para diversos nichos, incluindo restaurantes e atacados de peças automotivas.
+---
 
-<br>
+## 🚀 Experiências
 
-## 🛠️ Projetos Principais
+Desenvolvi soluções para empresas em diferentes setores, como fintech (QFlash), saúde (Epigene) e gestão (Alstra), focando em back-end com **Python, FastAPI e Django**. Também atuei como freelancer, entregando projetos sob medida para diversos clientes.
 
-- **🩺 [Sistema de Saúde B2B com IA (Multi-Tenant)](https://app.epigene.com.br/)**
-  - Plataforma para assistência de saúde integrada com WhatsApp e IA para otimizar o atendimento.
-  - `Django` `FastAPI` `NextJS` `PostgreSQL` `HTMX` `ManyChat`
+## 🛠️ Projetos
 
-- **📱 Sistema de Vendas para Lojas de Celulares (Multi-Tenant)**
-  - Solução completa para controle de vendas e ordens de serviço para assistências técnicas.
-  - `Django` `MySQL` `NodeJS` `Express` `jQuery` `Bulma`
-
-- **💸 [Controle Financeiro para Micro-Empresas](https://github.com/obrunodev/onda-nerd-tech)**
-  - Aplicação focada em simplicidade para ajudar pequenos negócios na gestão financeira.
-  - `Django` `HTMX` `Bootstrap 5` `SQLite`
-
-- **🖊️ API de Integração de Assinaturas Digitais**
-  - API centralizadora para conectar a plataforma com múltiplos serviços como Docusign e D4Sign.
-  - `Django` `Django Rest Framework`
-
-- **🚗 [E-commerce de Peças Automotivas](https://app.esteiodistribuidora.com.br/)**
-  - Loja virtual para uma distribuidora de peças, com gestão de estoque e vendas.
-  - `Django` `PostgreSQL` `Bootstrap 4` `jQuery`
+- **🩺 Plataforma de Saúde com IA (Multi-Tenant):** Uma solução B2B para clínicas médicas que usa IA para otimizar o atendimento e a gestão de pacientes.
+- **📱 Sistema de Vendas para Lojas de Celulares:** Solução completa para gestão de vendas e ordens de serviço.
+- **💸 Controle Financeiro para Micro-Empresas:** Uma aplicação simplificada para auxiliar pequenos negócios.
+- **🖊️ API de Assinaturas Digitais:** Uma API centralizadora para integrar serviços de assinatura como Docusign e D4Sign.
+- **🚗 E-commerce de Peças Automotivas:** Uma loja virtual completa com gestão de estoque para uma distribuidora.
 
 <br>
 
