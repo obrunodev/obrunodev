@@ -29,7 +29,7 @@ Sou Casado, Pai e Pythonista.</br></br>
 - **Tenho experiência em** desenvolvimento backend com python e algumas passagens por React e NextJS.
 - **As tecnologias que domino são** Python, FastAPI, Django e Django Rest Framework.
 - **Tenho vivência com** CI/CD, Bancos de dados relacionais e não relacionais e Docker.
-- **Estou aprimorando minhas habilidades em** escrita de testes, padrões de projetos e infraestrutura.
+- **Estou aprimorando minhas habilidades em** escrita de testes, padrões de projetos e infraestrutura (GCP/Linux).
 
 </br>
 </br>
@@ -49,21 +49,16 @@ Sou Casado, Pai e Pythonista.</br></br>
 
 ---
 
-## 🚀 Experiências
+### Minhas experiências
 
-Desenvolvi soluções para empresas em diferentes setores, como fintech (QFlash), saúde (Epigene) e gestão (Alstra), focando em back-end com **Python, FastAPI e Django**. Também atuei como freelancer, entregando projetos sob medida para diversos clientes.
 
-## 🛠️ Projetos
+- **Experiências profissionais:**
+  - **QFlash:** Desenvolvedor Backend com **FastAPI** e **MongoDB**.
+  - **Epigene:** Desenvolvedor Python com **Django**, **Next.js** e **FastAPI**, focado em soluções com **IA**.
+  - **Alstra:** Desenvolvedor Full-Stack com **Django**, **Bootstrap 4/5**, **Jquery**.
 
-- **🩺 Plataforma de Saúde com IA (Multi-Tenant):** Uma solução B2B para clínicas médicas que usa IA para otimizar o atendimento e a gestão de pacientes.
-- **📱 Sistema de Vendas para Lojas de Celulares:** Solução completa para gestão de vendas e ordens de serviço.
-- **💸 Controle Financeiro para Micro-Empresas:** Uma aplicação simplificada para auxiliar pequenos negócios.
-- **🖊️ API de Assinaturas Digitais:** Uma API centralizadora para integrar serviços de assinatura como Docusign e D4Sign.
-- **🚗 E-commerce de Peças Automotivas:** Uma loja virtual completa com gestão de estoque para uma distribuidora.
-
-<br>
-
-## 👥 Comunidades e Iniciativas
-
-- **Fundador da Comunidade Pythonizando/Code'n Coffee**
-  - Criei e moderei uma comunidade no WhatsApp, Telegram e Instagram para ensino e colaboração em programação, que esteve ativa até 2023, acumulando quase 300 pessoas.
+- **Projetos que desenvolvi:**
+  - **Sistema de Saúde B2B:** Plataforma B2B para assistência de saúde.
+  - **E-commerce de Peças Automotivas:** Loja virtual com gestão de estoque e vendas.
+  - **Controle Financeiro:** Aplicação para gestão financeira de pequenos negócios.
+  - **Comunidade Code'n Coffee:** Comunidade no Whatsapp, Telegram e Discord que somavam mais de 500 integrantes.
