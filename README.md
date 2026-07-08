@@ -27,9 +27,9 @@ Sou Casado, Pai e Pythonista.</br></br>
 </br>
 
 - **Tenho experiência em** desenvolvimento backend com **Python** e integração de **IAs generativas** (Gemini e ChatGPT).
-- **As tecnologias que domino são** Python, FastAPI, Django e Django Rest Framework.
-- **Tenho vivência com** CI/CD, PostgreSQL, MongoDB e Docker.
-- **Estou aprimorando minhas habilidades em** escrita de testes, padrões de projetos e GCP/Linux.
+- **As tecnologias que domino são** Python, FastAPI, Flask, Django e Django Rest Framework.
+- **Tenho vivência com** CI/CD, testes unitários, Cloud, PostgreSQL, MongoDB e Docker.
+- **Estou aprimorando minhas habilidades em** padrões de projetos e arquitetura.
 
 </br>
 </br>
@@ -37,6 +37,8 @@ Sou Casado, Pai e Pythonista.</br></br>
 ## Mais sobre minha carreira
 
 - **Experiências profissionais:**
+  - **G30IA (Atual):** Desenvolvedor Backend com **Flask**, **CosmoDB** criando soluções em **IA**.
+  - **Arquitech:** Desenvolvedor Backend com **FastAPI**, **PostgreSQL** e **MongoDB**.
   - **QFlash:** Desenvolvedor Backend Pleno com **FastAPI** e **MongoDB**.
   - **Epigene:** Desenvolvedor Python com **Django**, **Next.js** e **FastAPI**, focado em soluções com **IA**.
   - **Alstra:** Desenvolvedor Full-Stack com **Django**, **Bootstrap 4/5**, **Jquery**.
